@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/encryptionExample.java.iml" filepath="$PROJECT_DIR$/encryptionExample.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rsaTry.java.iml" filepath="$PROJECT_DIR$/rsaTry.java.iml" />
     </modules>
   </component>
 </project>
