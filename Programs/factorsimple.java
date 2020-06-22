@@ -15,7 +15,7 @@ public class factorsimple{
         String factorssstring = String.format ("%.0f", factorss);
         if(factorss > 0){
             //--Change File Directory--//
-            File file = new File("/Users/JC/Desktop/Programming/BlueJ 4.2.2/Programs/factorsimple.java/Factorise Number/" + factorssstring + ".txt");
+            File file = new File("file path here" + factorssstring + ".txt");
             file.createNewFile();
             FileWriter filewrite = new FileWriter(file);
 
